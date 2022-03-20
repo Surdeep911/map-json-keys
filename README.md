@@ -12,3 +12,5 @@ data3.values() will have keys of js2
 
 now we're creating a new json variable data4,
 which will contain keys of js1 & values of js2
+
+post action, the program will write a new json file js3.json
